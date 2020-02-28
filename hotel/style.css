@@ -1,0 +1,69 @@
+body {
+    background: -moz-linear-gradient(bottom, #0c7b93, #27496d);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.form{
+ background: #fbf4f9;
+
+     border-radius: 8px;
+     box-shadow: 1px 2px 8px rgba(0, 0, 0, 0.65);
+     height: 410px;
+     margin-top: 15%;
+     margin-left: 38%;
+     width: 425px;
+}
+#isi{
+ padding : 12px 44px
+}
+#title{
+ font-family: "Raleway Thin", sans-serif;
+   letter-spacing: 4px;
+   padding-bottom: 23px;
+   padding-top: 13px;
+   text-align: center;
+}
+.garis{
+    background: -moz-linear-gradient(right, #fbf4f9, #27496d);
+      height: 2px;
+      margin: -1.1rem auto 0 auto;
+      width: 89px;
+}
+label{
+font-family: "Raleway Thin", sans-serif;
+font-size: 11pt;
+} 
+.bubu{
+  align-items: left;
+  display: flex;
+  flex-direction: column;
+}
+.border{
+  background: -moz-linear-gradient(right,#0c7b93,#27496d);
+  height: 1px;
+  width: 100%;
+}
+.user{
+  background:#fbf4f9;
+  border: none;
+  outline: none;
+  padding-top: 14px;
+}
+.pass{
+  background:#fbf4f9;
+  border: none;
+  outline: none;
+  padding-top: 14px;  
+}
+#tmbl{
+  background: -moz-linear-gradient(right, #0c7b93, #27496d);
+  border: none;
+  border-radius: 21px;
+  cursor: pointer;
+  color: white;
+  font-family: sans-serif;
+  height: 42.3px;
+  margin: 0 auto;
+  margin-top: 29px;
+  width: 153px;
+}
